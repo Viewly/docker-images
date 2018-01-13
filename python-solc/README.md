@@ -6,5 +6,5 @@ It ships with Ubuntu 17.10, Python 3.6 and the latest version of Solidity compil
 
 ### Usage
 ```
-docker pull viewly/python-solc
+docker pull viewly/docker-images:python-solc
 ```
